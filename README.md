@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mole-Oy!
-- Western university | Honours Computer Science Undergraduate
+- 👋 Hi, I’m Matthew Molloy!
+- Western University | Honours Computer Science Undergraduate
 
 <!---
 Mole-Oy/Mole-Oy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
